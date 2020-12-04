@@ -1,0 +1,5 @@
+s_data.plot(x='Hours',y='Scores',style='o')
+plt.title('Hours vs Percentage')
+plt.xlabel('Hours Studied')
+plt.ylabel('percentage Score')
+plt.show()
