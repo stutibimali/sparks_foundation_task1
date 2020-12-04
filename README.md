@@ -1,3 +1,3 @@
-# spark_foundation_task1
+# spark_foundation_task1_supervised
 prediction using supervised ml
 2020
